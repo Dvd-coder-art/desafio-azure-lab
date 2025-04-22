@@ -58,7 +58,9 @@ Backup: Considere usar o Azure Backup para garantir a segurança dos seus dados.
 
 ## Capturas de Tela
 Abaixo estão algumas capturas de tela que documentam o processo de criação da máquina virtual:
-
+![bank](./create-bank.png)
+![bank](./Bank.png)
+![bank](./create.png)
 
 ## Conclusão
 Este desafio proporcionou uma compreensão prática do processo de criação e gerenciamento de máquinas virtuais no Azure, além de aprender sobre configurações de rede, discos e segurança na nuvem. Com isso, você estará mais preparado para trabalhar com ambientes de nuvem reais e utilizar os recursos do Azure para implementação de soluções escaláveis.
